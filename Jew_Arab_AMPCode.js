@@ -11,7 +11,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 				//An array of all media objects for this category.
 				mediaArray : [
 				    {word : 'אמל'}, 
-					{word : 'ג'מילה'}, 
+					{word : 'גמילה'}, 
 					{word : 'מוניה'}, 
 					{word : 'נסרין'}, 
 					{word : 'רנא'}]
