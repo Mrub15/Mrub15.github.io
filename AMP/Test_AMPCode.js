@@ -10,11 +10,11 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 				nameForLogging : 'שמות ערביים', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-				    {word : 'name1'}, 
-					{word : 'name2'}, 
-					{word : 'name3'}, 
-					{word : 'name4'}, 
-					{word : 'name5'}]
+				    {image : 'ArabName1.jpg'}, 
+					{image : 'ArabName2.jpg'}, 
+					{image : 'ArabName3.jpg'}, 
+					{image : 'ArabName4.jpg'}, 
+					{image : 'ArabName5.jpg'}]
 
 			}, 
 			{
@@ -22,11 +22,11 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 				nameForLogging : 'שמות יהודיים', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-				    {word : 'name11'}, 
-					{word : 'name12'}, 
-					{word : 'name13'}, 
-					{word : 'name14'}, 
-					{word : 'name15'}]
+				    {image : 'JewishName1.jpg'}, 
+					{image : 'JewishName2.jpg'}, 
+					{image : 'JewishName3.jpg'}, 
+					{image : 'JewishName4.jpg'}, 
+					{image : 'JewishName5.jpg'}]
 			}
 		],
 
