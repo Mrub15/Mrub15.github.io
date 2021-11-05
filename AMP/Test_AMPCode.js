@@ -40,8 +40,9 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 		base_url : {//Where are your images at?
 			image : 'https://mrub15.github.io/AMP/Stimuli'
 		}
-			{sortingLabel1 : 'חיובית', //Response is coded as 0. 
+
+			sortingLabel1 :'חיובית', //Response is coded as 0. 
 			sortingLabel2 : 'שלילית',  //Response is coded as 1.
-			randomizeLabelSides : false, //IF false, then label1 is on the left, and label2 is on the right.}
+			randomizeLabelSides : false, //IF false, then label1 is on the left, and label2 is on the right.
 	});
 });
